@@ -7,5 +7,4 @@ public class Node {
         this.html_string=html_string;
         this.validation=validation;
     }
-
 }
